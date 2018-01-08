@@ -1,3 +1,6 @@
+.DS_Store
+nbproject
+
 # Compiled class file
 *.class
 
